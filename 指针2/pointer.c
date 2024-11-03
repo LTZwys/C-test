@@ -1,3 +1,4 @@
+//数组指针、指针数组
 #include <stdio.h>
 void print1(int arr[2][2], int x, int y){
 	int i = 0;
